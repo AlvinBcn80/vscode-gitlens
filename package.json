@@ -10221,7 +10221,7 @@
 		"image-minimizer-webpack-plugin": "3.2.1",
 		"imagemin": "8.0.1",
 		"imagemin-webp": "7.0.0",
-		"json5": "2.2.0",
+		"json5": "2.2.2",
 		"license-checker-rseidelsohn": "3.1.0",
 		"mini-css-extract-plugin": "2.5.3",
 		"mocha": "9.2.0",
